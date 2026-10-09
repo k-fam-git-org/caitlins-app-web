@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180" role="img" aria-label="Memory Jar placeholder illustration">
+  <rect width="240" height="180" rx="28" fill="#fffaf4"/>
+  <path d="M89 48h62l-6 18c17 12 25 29 25 50 0 27-20 42-50 42s-50-15-50-42c0-21 8-38 25-50z" fill="#f7f0e8" stroke="#a87481" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M91 45h58" stroke="#849b82" stroke-width="10" stroke-linecap="round"/>
+  <rect x="91" y="95" width="36" height="18" rx="4" transform="rotate(-7 91 95)" fill="#ead2d7" stroke="#a87481" stroke-width="2"/>
+  <rect x="120" y="119" width="35" height="17" rx="4" transform="rotate(8 120 119)" fill="#e7eee4" stroke="#849b82" stroke-width="2"/>
+</svg>
